@@ -4,7 +4,7 @@ function Navigation() {
     return (
         <nav className={styles.navigation}>
             <a href="#home" className={styles.logoContainer}>
-                <img src="./public/Logo.svg" alt="Ascend Logo" className={styles.logoImage} />
+                <img src="./Logo.svg" alt="Ascend Logo" className={styles.logoImage} />
                 <h1 className={styles.logoText}>Ascend</h1>
             </a>
             <ul className={styles.navList}>
